@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="content_desc">content_desc</string>
+    <string name="insert_book_menu_text">Insert Book</string>
+</resources>
