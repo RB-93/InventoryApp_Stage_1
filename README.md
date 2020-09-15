@@ -2,7 +2,7 @@
 
 ## Project name: Book Store
 
-## Descrption:
+## Description:
 This project was created as a part of the Android Basics Nanodegree and for Google India Scholarship Challenge 2k18. The goal of this project is to design and create the structure of a Inventory App that will allow a store to keep track of its inventory of products. 
 * In this project, I have worked on Book Store Inventory, allows user to track sales and shipments of books and make it easy for the user to order more from the listed supplier.
 
